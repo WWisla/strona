@@ -1,0 +1,30 @@
+body{
+	background: #eaedf1 ;
+	color: #002a54;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1{
+	color: #002a54;
+}
+
+h2{
+	color: #002a54;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+a:link{
+	color: #e04b27;
+	font-size: 40px;
+}
+
+a:visited{
+	color: #002a54;
+	font-size: 40px;
+}
